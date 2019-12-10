@@ -7,7 +7,6 @@ Version History
 Current Version 0.5
 
 Everything works but is very manual. 
-
 See the email.txt to configure where to send the emails.
 
 
